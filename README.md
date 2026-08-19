@@ -1,3 +1,3 @@
-# Empty
+# No longer empty
 
-no longer empty
+This repository is no longer empty.
